@@ -1,0 +1,10 @@
+﻿  Building Custom Rule D:/myvc/CMakeLists.txt
+  main.cpp
+  file_storage.cpp
+D:\myvc\src\file_storage.cpp(18,5): warning C4996: 'SHA256_Init': Since OpenSSL 3.0
+D:\myvc\src\file_storage.cpp(21,9): warning C4996: 'SHA256_Update': Since OpenSSL 3.0
+D:\myvc\src\file_storage.cpp(23,5): warning C4996: 'SHA256_Update': Since OpenSSL 3.0
+D:\myvc\src\file_storage.cpp(26,5): warning C4996: 'SHA256_Final': Since OpenSSL 3.0
+  remote.cpp
+  Generating Code...
+  myvc.vcxproj -> D:\myvc\build\Debug\myvc.exe

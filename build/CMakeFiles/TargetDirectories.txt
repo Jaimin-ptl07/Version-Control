@@ -1,0 +1,3 @@
+D:/myvc/build/CMakeFiles/myvc.dir
+D:/myvc/build/CMakeFiles/ALL_BUILD.dir
+D:/myvc/build/CMakeFiles/ZERO_CHECK.dir
